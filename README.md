@@ -1,2 +1,2 @@
 # myproject
-this is mt repo
+this is my repo
